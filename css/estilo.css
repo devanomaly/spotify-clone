@@ -80,6 +80,16 @@ nav.navbar-transparente {
   color: black;
 }
 
+.carousel-control-next, .carousel-control-prev {
+  width: 5%;
+}
+.carousel-control-next{
+  padding-left: 20%;
+}
+.carousel-control-prev {
+  padding-right: 20%;
+}
+
 /* FIM CAPA */
 
 /* INICIO ESTRUTURA CONTEUDOS */
@@ -153,8 +163,6 @@ footer ul li{
   float: right;
   margin: 0 5px;
 }
-
-
 /* FINAL FOOTER */
 
 /* INICIO TIPOGRAFIA */
